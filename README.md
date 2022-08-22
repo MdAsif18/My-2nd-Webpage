@@ -504,12 +504,12 @@ of all current members of Cabin no
     <a href="https://www.google.com"/> Click here to open Google 
     
     
-    <br>
+    <br> <br>
     <style> 
    .THANK-button {
      color : green ;
      font-weight : bold ;
-     font-size : 60px ;
+     font-size : 80px ;
      box-shadow : 10px 10px 0 green ;
      border-radius : 10px ;
      border-color : green ;
