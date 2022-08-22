@@ -1,17 +1,17 @@
-# cabin.github.io
+# My 2nd webpage 
 
 
 <html>
 
     
 
-<head>
+
 
     
 
   <title>Cabin no 6</title>
 
-    </head>
+   
 
     
 
