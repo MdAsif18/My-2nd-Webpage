@@ -33,7 +33,7 @@ width: 300px ;
 
 border-radius: 10px ;
 
-font-size : 40px ;
+font-size : 50px ;
 
 cursor : pointer ;
 
@@ -77,7 +77,7 @@ height: 100px ;
 
 width : 100px;
 
-font-size : 40px ;
+font-size : 50px ;
 
 border-radius: 10px ;
     font-weight : bold ;
@@ -97,7 +97,7 @@ background-color : green ;
 
 color : white ;
 
-font-size : 40px ;
+font-size : 50px ;
 
 border-radius : 10px ;
 
