@@ -206,7 +206,7 @@ font-size : 69px ;
 
 text-align : center ;
 
-font-size : 30px ;
+font-size : 60px ;
 
 color : red ;
 
@@ -236,7 +236,7 @@ text-align : center ;
 
 color : blue ;
 
-font-size : 30px
+font-size : 60px
 
 }
 
@@ -260,7 +260,7 @@ box-shadow : 10px 10px 10px green ;
 
 text-align : center ;
 
-font-size : 30px ;
+font-size : 60px ;
 
 color : green ;
 
@@ -274,7 +274,7 @@ box-shadow : 0 10px 10px green ;
 
 text-align : center ;
 
-font-size : 30px ;
+font-size : 60px ;
 
 color : blue ;
 
@@ -304,7 +304,7 @@ box-shadow : 10px 10px 10px blue ;
 
 text-align : center ;
 
-font-size : 30px ;
+font-size : 60px ;
 
 color : green ;
 
@@ -334,7 +334,7 @@ box-shadow : 10px 10px 10px green ;
 
 text-align : center ;
 
-font-size : 30px ;
+font-size : 60px ;
 
 color : red ;
 
