@@ -152,7 +152,7 @@ box-shadow : 10px 10px 0 black ;
 
 background-color : orange ;
 
-font-family : Arial ;
+font-family : violet ;
 
 font-size : 57px ;
 
@@ -160,7 +160,8 @@ font-style :italic ;
 
 text-align :  center ;
 
-color : black ;
+color : white ;
+font-weight : bold ;
 
 text-decoration-line: underline;
 
