@@ -39,6 +39,7 @@ cursor : pointer ;
 
 margin-right : 10px ;
 
+margin-bottom : 20px ;
 margin-left : 200px ;
 
 box-shadow : 10px 10px 10px black ;
@@ -82,6 +83,7 @@ border-radius: 10px ;
 cursor : pointer;
 
 margin-right: 10px ;
+margin-bottom : 20px ;
 
 box-shadow : 10px 10px 0 Black ;
 
@@ -104,6 +106,7 @@ width : 200px ;
 cursor : pointer ;
 
 box-shadow: 10px 10px 10px black ;
+margin-bottom : 20px ;
 
 }
 
@@ -517,6 +520,6 @@ of all current members of Cabin no
 
     
 
-    </body>
+    
 
-    </html>
+
