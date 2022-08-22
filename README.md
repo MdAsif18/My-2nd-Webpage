@@ -210,7 +210,7 @@ text-align : center ;
 font-size : 60px ;
 
 color : red ;
-
+font-weight : bold ;
 text-decoration-line : underline ;
 
 box-shadow : 0 10px 10px red ;
@@ -264,6 +264,7 @@ text-align : center ;
 font-size : 60px ;
 
 color : green ;
+font-weight : bold ;
 
 text-decoration-line : underline ;
 
@@ -278,6 +279,7 @@ text-align : center ;
 font-size : 60px ;
 
 color : blue ;
+font-weight : bold ;
 
 text-decoration-line : underline ;
 
@@ -308,6 +310,8 @@ text-align : center ;
 font-size : 60px ;
 
 color : green ;
+font-weight : bold ;
+
 
 text-decoration-line : underline ;
 
@@ -338,6 +342,7 @@ text-align : center ;
 font-size : 60px ;
 
 color : red ;
+font-weight : bold ;
 
 text-decoration-line : underline ;
 
