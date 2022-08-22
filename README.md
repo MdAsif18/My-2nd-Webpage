@@ -144,7 +144,7 @@ box-shadow : 10px 10px 10px black ;
 
   
 
-    <p class="Cabin-title">CABIN NO 6 FAMILY</h1>
+    <p class="Cabin-title">CABIN NO 6 FAMILY</p>
 
 <style>
 
