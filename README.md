@@ -9,7 +9,7 @@
 
     
 
-    <title>Cabin no 6</title>
+  <br>  <title>Cabin no 6</title>
 
     </head>
 
