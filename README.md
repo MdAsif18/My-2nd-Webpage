@@ -390,7 +390,7 @@ of all current members of Cabin no
 
         <p class="md"> MUHAMMAD ASIF </p>
 
-<img class="asif" src="https://i.ibb.co/HG351YZ/asif.jpg" >
+<img class="asif" src="https://i.ibb.co/8XF8m46/asif.jpg" >
 
       </p>
 
