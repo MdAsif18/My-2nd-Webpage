@@ -150,7 +150,7 @@ box-shadow : 10px 10px 0 black ;
 
 .video-title {
 
-background-color : white ;
+background-color : orange ;
 
 font-family : Arial ;
 
@@ -372,11 +372,11 @@ box-shadow : 10px 10px 10px red ;
 
     <p class = "video-title" >
 
-* Below mentioned are the total list 
+∆ Below mentioned are the total list 
 
 of all current members of Cabin no 
 
-6 and their social media link * </p>
+6 and their social media link ∆ </p>
 
     <p class="video-stats"> 
 
