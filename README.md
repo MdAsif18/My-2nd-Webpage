@@ -515,6 +515,7 @@ of all current members of Cabin no
      border-color : green ;
      height : 100px ;
      width : 500px ;
+     text-align : center ;
         }
         
    
