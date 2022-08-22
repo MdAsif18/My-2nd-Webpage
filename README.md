@@ -410,7 +410,7 @@ of all current members of Cabin no
 
  
 
-<img class="shub" src="https://i.ibb.co/jycx0pQ/shub.jpg">
+<img class="shub" src="https://i.ibb.co/xL3QKkw/shub.jpg">
 
  
 
@@ -432,7 +432,7 @@ of all current members of Cabin no
 
  
 
-<img class="aniket" src="https://i.ibb.co/xYHRzWR/aniket.jpg">
+<img class="aniket" src="https://i.ibb.co/jk7RPwD/aniket.jpg">
 
  
 
@@ -452,7 +452,7 @@ of all current members of Cabin no
 
  
 
-<img class="sarkar" src="https://i.ibb.co/VmQX544/sarkar.jpg">
+<img class="sarkar" src="https://i.ibb.co/R38k77P/sarkar.jpg">
 
  
 
@@ -472,7 +472,7 @@ of all current members of Cabin no
 
  
 
-<img class="souvik" src="https://i.ibb.co/gFZ0TM3/souvik.jpg">
+<img class="souvik" src="https://i.ibb.co/7nvGxCw/souvik.jpg">
 
  
 
