@@ -41,7 +41,7 @@ margin-right : 10px ;
     font-weight : bold ;
 
 margin-bottom : 20px ;
-margin-left : 20px ;
+margin-left : 100px ;
 
 box-shadow : 10px 10px 10px black ;
 
