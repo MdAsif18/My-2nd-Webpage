@@ -150,9 +150,9 @@ box-shadow : 10px 10px 0 black ;
 
 .video-title {
 
-background-color : orange ;
+background-color : purple ;
 
-font-family : violet ;
+
 
 font-size : 57px ;
 
