@@ -21,7 +21,7 @@
 
 <style> 
 
-.Welcome-button
+.WELCOME-button
 
 { background-color : rgb(255, 120, 34) ;
 
@@ -46,13 +46,13 @@ box-shadow : 10px 10px 10px black ;
 
 } 
 
-.Welcome-button : hover {
+.WELCOME-button : hover {
 
 background-color : green ;
 
 }
 
-.Welcome-button : active {
+.WELCOME-button : active {
 
 background-color : white ; 
 
@@ -60,7 +60,7 @@ opacity : 0.2 ;
 
 }
 
-.To-button {
+.TO-button {
 
 background-color : white ;
 
@@ -89,7 +89,7 @@ box-shadow : 10px 10px 0 Black ;
 
 }
 
-.Family-button {
+.FAMILY-button {
 
 background-color : green ;
 
@@ -112,11 +112,11 @@ margin-bottom : 20px ;
 
 </style>
 
-<button class=" Welcome-button"> Welcome </button>
+<button class=" WELCOME-button"> WELCOME </button>
 
-<button class ="To-button">To</button>
+<button class ="TO-button">TO</button>
 
-<button class="Family-button"> Family</button>
+<button class="FAMILY-button"> FAMILY</button>
 
 <style> 
 
