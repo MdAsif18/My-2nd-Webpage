@@ -507,7 +507,7 @@ of all current members of Cabin no
     <br> <br>
     <style> 
    .THANK-button {
-     color : green ;
+     color : rgb(255, 120, 34)  ;
      font-weight : bold ;
      font-size : 80px ;
      box-shadow : 10px 10px 0 green ;
