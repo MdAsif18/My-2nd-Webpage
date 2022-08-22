@@ -218,7 +218,7 @@ box-shadow : 0 10px 10px red ;
 
 .age {
 
-font-size : 30px ;
+font-size : 60px ;
 
 color : red ;
 
@@ -492,7 +492,7 @@ of all current members of Cabin no
 
     
 
-    <a href="https://www.google.com"/> Click here to open google </a>
+    <a href="https://www.google.com"/> Click here to open google
 
     
 
