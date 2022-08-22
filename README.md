@@ -512,8 +512,8 @@ of all current members of Cabin no
      box-shadow : 10px 10px 0 green ;
      border-radius : 10px ;
      border-color : green ;
-     height : 50px ;
-     width : 400px ;
+     height : 100px ;
+     width : 500px ;
         }
         
    
