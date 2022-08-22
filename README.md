@@ -1,5 +1,5 @@
 # cabin.github.io
-<!DOCTYPE html> 
+
 
 <html>
 
@@ -9,7 +9,7 @@
 
     
 
-  <br>  <title>Cabin no 6</title>
+  <title>Cabin no 6</title>
 
     </head>
 
