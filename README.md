@@ -29,7 +29,7 @@ color:white;
 
 height : 100px;
 
-width: 200px ;
+width: 300px ;
 
 border-radius: 10px ;
 
@@ -38,6 +38,7 @@ font-size : 40px ;
 cursor : pointer ;
 
 margin-right : 10px ;
+    font-weight : bold ;
 
 margin-bottom : 20px ;
 margin-left : 200px ;
@@ -79,6 +80,7 @@ width : 100px;
 font-size : 40px ;
 
 border-radius: 10px ;
+    font-weight : bold ;
 
 cursor : pointer;
 
@@ -101,7 +103,8 @@ border-radius : 10px ;
 
 height : 100px ;
 
-width : 200px ;
+width : 300px ;
+    font-weight : bold ;
 
 cursor : pointer ;
 
